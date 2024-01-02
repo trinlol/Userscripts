@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch Video Controls
 // @namespace    https://twitch.tv
-// @version      1.12
+// @version      1.13
 // @description  Add play/pause and mute/volume controls to Twitch
 // @author       trinlol
 // @match        https://www.twitch.tv/*
