@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Twitch video controls fixer
 // @namespace    https://twitch.tv
-// @version      1.2
+// @version      2.0
 // @description  Fix twitch.tv video controls
 // @author       trinlol
 // @match        https://www.twitch.tv/*
